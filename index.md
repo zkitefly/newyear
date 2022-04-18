@@ -24,7 +24,7 @@ A3:有滴，新员工加入可获平台1-5元现金奖励，2-6元随机红包�
 
 | 成员列表 |
 | ------ |
-| [link](https://www.corestudi0.github.io/studio-member-list.html) |
+| [点我跳转](https://www.corestudi0.github.io/studio-member-list.html) |
 
 ## 联系我们
 电话(WX同号):15310670877
