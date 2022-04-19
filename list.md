@@ -4,9 +4,9 @@
 
 | 页面名称 | 链接 |
 | -------- | ---- |
-| 工作室成员列表 | [点我查看](/members) |
+| 工作室成员列表 | [点我查看](/list/members) |
 | 中文主页 | [点我访问](https://corestudi0.github.io) |
-| English Main | [Click me to visit](https://corestudi0.github.io/en |
+| English Main | [Click me to visit](/en |
 
 ## Contact owners
 
