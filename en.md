@@ -1,6 +1,8 @@
-# Core™ Studio Core Studio
+---
+permalink: /404.html
+---
 
-### Language语言 [简体中文](https://www.corestudi0.github.io)  English
+# Core™ Studio Core Studio
 
 This is the core studio, welcome to the core studio!
 
