@@ -1,5 +1,5 @@
 ---
-permalink: /404.html
+permalink: /en.html
 ---
 
 # Core™ Studio Core Studio
