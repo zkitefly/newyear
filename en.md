@@ -1,5 +1,5 @@
 ---
-permalink: /nnn.html
+permalink: /en.html
 ---
 
 # Core™ Studio Core Studio
@@ -46,7 +46,7 @@ A3: Yes, new employees can get a cash reward of 1-5 yuan on the platform, a rand
 
 ## member list
 
-| [View our members](https://www.corestudi0.github.io/studio-members-list) |
+| [View our members](https://www.corestudi0.github.io/list/members) |
 | - |
 | ↑↑↑ |
 
