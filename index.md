@@ -1,6 +1,8 @@
 # 核心™ 工作室 Core Studio
 
-[English(TEST URL)](https://corestudi0.github.io/en)
+[English](https://corestudi0.github.io/en)
+
+[快速访问列表](/list)
 
 这里是核心工作室，欢迎来到核心工作室！
 ![image](https://raw.githubusercontent.com/corestudi0/corestudi0.github.com/main/CORESTUDIO.png)
