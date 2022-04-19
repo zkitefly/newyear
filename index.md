@@ -1,6 +1,6 @@
 # 核心™ 工作室 Core Studio
 
-English(TEST URL)  https://www.corestudi0.github.io/en
+[English(TEST URL)](https://corestudi0.github.io/en)
 
 There is some Wrong,PLEASE COPY this LINK to visit English Main
 
