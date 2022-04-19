@@ -1,5 +1,5 @@
 ---
-permalink: /en.html
+permalink: /nnn.html
 ---
 
 # Core™ Studio Core Studio
