@@ -6,6 +6,7 @@ permalink: /en.html
 
 [简体中文](https://corestudi0.github.io)
 
+[Quick Visit List](/list)
 
 This is the core studio, welcome to the core studio!
 
