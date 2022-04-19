@@ -4,6 +4,9 @@ permalink: /en.html
 
 # Core™ Studio Core Studio
 
+[简体中文](https://corestudi0.github.io)
+
+
 This is the core studio, welcome to the core studio!
 
 ![image](https://download.123pan.cn/123-531/7a57739b/1767126-0/7a57739b498eeb79e39b7709a372f213?v=3&t=1649938297&s=9fc4aeead4414cca0d8abb22d29a7d13&i=7756952a&filename=CORESTUDIO.png)
@@ -46,9 +49,9 @@ A3: Yes, new employees can get a cash reward of 1-5 yuan on the platform, a rand
 
 ## member list
 
-| [View our members](https://www.corestudi0.github.io/list/members) |
+| [View our members](https://corestudi0.github.io/list/members) |
 | - |
-| ↑↑↑ |
+| Click here |
 
 ## contact us
 Telephone (same number as WX): 15310670877
