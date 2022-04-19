@@ -1,6 +1,8 @@
 # 核心™ 工作室 Core Studio
 
-[English(TEST URL)](https://www.corestudi0.github.io/en)
+English(TEST URL)  https://www.corestudi0.github.io/en
+
+There is some Wrong,PLEASE COPY this LINK to visit English Main
 
 这里是核心工作室，欢迎来到核心工作室！
 ![image](https://raw.githubusercontent.com/corestudi0/corestudi0.github.com/main/CORESTUDIO.png)
@@ -27,7 +29,7 @@ A3:有滴，新员工加入可获平台1-5元现金奖励，2-6元随机红包�
 
 | 成员列表 |
 | ------ |
-| [点我跳转](https://www.corestudi0.github.io/list/members) |
+| 超链接有一些问题，复制以访问https://www.corestudi0.github.io/list/members |
 
 ## 联系我们
 电话(WX同号):15310670877
