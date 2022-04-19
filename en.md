@@ -6,7 +6,7 @@ permalink: /en.html
 
 [简体中文](https://corestudi0.github.io)
 
-[Quick Visit List](https://corestudi0.github.io/list)
+[Quick Visit List](/list)
 
 This is the core studio, welcome to the core studio!
 
@@ -50,7 +50,7 @@ A3: Yes, new employees can get a cash reward of 1-5 yuan on the platform, a rand
 
 ## member list
 
-| [View our members](https://corestudi0.github.io/list/members) |
+| [View our members](/list/members) |
 | - |
 | Click here |
 
