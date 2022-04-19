@@ -1,5 +1,5 @@
 -----
-permalink: /lisy
+permalink: /list
 -----
 
 # 快速查询列表
