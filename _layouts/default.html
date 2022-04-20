@@ -18,10 +18,9 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ https://github.com/corestudi0/corestudi0.github.io/releases/download/untagged-5cba1b2835b2cff64471/ChromeGo.7z }}" class="btn">下载 ChromeGo 翻墙软件</a>
       {% endif %}
       {% if site.show_downloads %}
+        <a href="{{ https://github.com/corestudi0/corestudi0.github.io/releases/download/untagged-5cba1b2835b2cff64471/ChromeGo.7z }}" class="btn">下载 ChromeGo 翻墙软件</a>
         <a href="{{ url }}" class="btn">UNKNOW</a>
         <a href="{{ url }}" class="btn">UNKNOW</a>
       {% endif %}
