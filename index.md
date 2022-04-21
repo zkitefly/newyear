@@ -6,7 +6,7 @@
 
 这里是核心工作室，欢迎来到核心工作室！
 
-![image](https://download.123pan.cn/123-531/7a57739b/1767126-0/7a57739b498eeb79e39b7709a372f213?v=3&t=1649938297&s=9fc4aeead4414cca0d8abb22d29a7d13&i=7756952a&filename=CORESTUDIO.png)
+![image](https://github.com/corestudi0/corestudi0.github.io/blob/763995c4b741fcbf25860ebd94a3d00549a5ce59/_files/CORESTUDIO.png)
 
 ## 我们能干什么？
 1.我们可以制作一些比较实用的工具，使用较高级的 C++ 编译大部分程序
