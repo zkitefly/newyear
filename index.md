@@ -59,6 +59,5 @@ A3:有滴，新员工加入可获平台1-5元现金奖励，2-5元随机红包�
 
 地址:重庆市南岸区XXXXXX(这个不告诉)
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=280 height=52 src="//music.163.com/outchain/player?type=2&id=1940015719&auto=1&height=32"></iframe>
 
 ## Copyright (C) Core Studio 2022
