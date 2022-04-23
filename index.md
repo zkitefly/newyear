@@ -18,12 +18,24 @@
 
 资源列表:[点我查看](https://www.123pan.com/s/dUF9-Pskw3)
 
-## Core™ Studio Special for Climbing Tools qwq
+## 核心™ 工作室 特供翻墙浏览器/VPN 全部免费不限流量 高速稳定
 
-ChromeGo 翻墙浏览器
+ChromeGo 翻墙浏览器(!!最近不稳定!!)
+
 [如何使用（在 Youtube 上）](https://www.youtube.com/watch?v=fAhzDLVjml8)
 
 [下载集成插件版](https://www.123pan.com/s/dUF9-Xskw3)
+
+FireFox 翻墙浏览器(!!荐!!)
+
+[下载翻墙包](https://d1a.v2rss.gq/FirefoxFQ.7z)
+
+安卓VPN
+
+[V2ray VPN](https://d1a.v2rss.gq/v2ray.vpn-universal-release.apk)
+
+[SpeedUp VPN](https://d1a.v2rss.gq/SpeedUp.VPN.apk)
+
 
 提示：
 
@@ -53,6 +65,7 @@ A3:有滴，新员工加入可获平台1-5元现金奖励，2-5元随机红包�
 | [点我查看](https://corestudi0.github.io/list/members) |
 
 ## 联系我们
+
 电话(WX同号):15310670877
 
 邮箱:a1447754529@gmail.com  或  a1447754529@163.com(建议前者)
