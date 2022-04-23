@@ -1,0 +1,3 @@
+---
+permalink: /list/fanqiang.html
+---
