@@ -20,22 +20,7 @@
 
 ## 核心™ 工作室 特供翻墙浏览器/VPN 全部免费不限流量 高速稳定
 
-ChromeGo 翻墙浏览器(!!最近不稳定!!)
-
-[如何使用（在 Youtube 上）](https://www.youtube.com/watch?v=fAhzDLVjml8)
-
-[下载集成插件版](https://www.123pan.com/s/dUF9-Xskw3)
-
-FireFox 翻墙浏览器(!!荐!!)
-
-[下载翻墙包](https://d1a.v2rss.gq/FirefoxFQ.7z)
-
-安卓VPN
-
-[V2ray VPN](https://d1a.v2rss.gq/v2ray.vpn-universal-release.apk)
-
-[SpeedUp VPN](https://d1a.v2rss.gq/SpeedUp.VPN.apk)
-
+[点我查看详情](/list/fanqiang)
 
 提示：
 
