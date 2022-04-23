@@ -6,6 +6,7 @@
 | 工作室成员列表 | [点我查看](/list/members) |
 | 中文主页 | [点我访问](https://corestudi0.github.io) |
 | English Main | [Click me to visit](/en) |
+| 免费翻墙工具 | [点我查看](/list/fanqiang)
 
 ## Contact owners
 
