@@ -1,7 +1,3 @@
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5834720734581726"
-     crossorigin="anonymous"></script>
-
-
 # 核心™ 工作室 Core Studio
 
 [English](https://corestudi0.github.io/en)
