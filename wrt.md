@@ -1,5 +1,5 @@
 ---
-permalink: /article.html
+permalink: /wrt.html
 ---
 
 # 文章
