@@ -10,7 +10,7 @@ permalink: /article.html
 | 待更新 | N/A | N/A | N/A |
 
 ## 文章投稿
-
+ 
 投稿至 a1447754529@gmail.com ,要求必须为.doc , .pdf , 或纯文字内容 , 内容须为正能量内容，禁止传播低俗，色情等违法内容！
 
 ### [返回主页](https://corestudi0.github.io)
