@@ -4,8 +4,6 @@
 
 [快速访问列表](/list)
 
-[文章](/artc)
-
 这里是核心工作室，欢迎来到核心工作室！
 
 ![image](https://github.com/corestudi0/corestudi0.github.io/blob/763995c4b741fcbf25860ebd94a3d00549a5ce59/_files/CORESTUDIO.png)
