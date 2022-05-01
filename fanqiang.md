@@ -1,5 +1,5 @@
 ---
-permalink: /list/fanqiang.html
+permalink: /article/fanqiang.html
 ---
 
 # 免费翻墙工具汇总
