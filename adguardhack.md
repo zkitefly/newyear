@@ -1,3 +1,7 @@
+---
+permalink: /article/adguardhack.html
+---
+
 # AdGuard激活工具
 ## 注:内容仅用于学习讨论，请勿用于商业用途！
 
