@@ -1,8 +1,10 @@
 # 核心™ 工作室 Core Studio
 
+注:English主页暂时未更新，所有资源分享及大多内容已经移入 **文章** 板块
+
 [English](https://corestudi0.github.io/en)
 
-[快速访问列表](/list)
+[快速查询列表](/list)
 
 这里是核心工作室，欢迎来到核心工作室！
 
@@ -20,7 +22,7 @@
 
 ## 核心™ 工作室 特供翻墙浏览器/VPN 全部免费不限流量 高速稳定
 
-[点我查看详情](/list/fanqiang)
+[点我查看详情](/article/fanqiang)
 
 提示：
 
