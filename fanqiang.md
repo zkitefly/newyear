@@ -22,6 +22,10 @@ FireFox 翻墙浏览器(!!荐!!)
 
 [SpeedUp VPN](https://d1a.v2rss.gq/SpeedUp.VPN.apk)
 
+## 通用平台
+
+[**小牛加速器**(原 *小牛VPN*)](https://www.aoxvpn.cc)
+
 ## 更多平台翻墙工具待更新~
 
 时间:2022/4/23 10:30
