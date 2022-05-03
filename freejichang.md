@@ -8,7 +8,7 @@ permalink: /article/freejichang.html
 
 这个机场不限流，不限速，免费用，详细教程见 [我的视频](https://youtu.be/8fPjKwNGeTs) 
 
-官网 : [点击访问](daydaygeek.icu)
+官网 : [点击访问](https://daydaygeek.icu)
 
 好用记得去 **[我的视频](https://youtu.be/8fPjKwNGeTs)** 帮我点个免费的**赞**和**订阅**
 
