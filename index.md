@@ -2,6 +2,8 @@
 
 注:English主页暂时未更新，所有资源分享及大多内容已经移入 **文章** 板块
 
+部分主页没有的内容可以去 **快速查询列表**中查看
+
 [English](https://corestudi0.github.io/en)
 
 [快速查询列表](/list)
@@ -20,9 +22,11 @@
 
 资源列表:[点我查看](https://www.123pan.com/s/dUF9-Pskw3)
 
-## 核心™ 工作室 特供翻墙浏览器/VPN 全部免费不限流量 高速稳定
+## 核心™ 工作室 特供翻墙浏览器/VPN/机场 全部免费不限流量 高速稳定
 
-[点我查看详情](/article/fanqiang)
+[翻墙](/article/fanqiang)
+
+**[荐:公益机场](/article/freejichang)**
 
 提示：
 
