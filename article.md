@@ -11,6 +11,7 @@ permalink: /article
 | 特供免费翻墙工具 | 科技 | **有资源** | 2022/5/1 | [查看](/article/fanqiang) |
 | AdGuard白嫖激活许可 | 科技 | **有资源** | 2022/5/1 | [查看](/article/adguardhack) |
 | 公益机场 **不限速 不限流 免费 8K不卡** | 科技 | **无资源 有链接** | 2022/5/4 | [查看](/article/freejichang) |
+| 游戏实名身份证 | N/A | N/A | 2022/5/8 | [查看](/article/realname) | 
 | N/A | N/A | **N/A** | N/A | N/A |
 
 ## 文章及资源分享投稿

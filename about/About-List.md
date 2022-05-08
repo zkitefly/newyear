@@ -4,6 +4,8 @@ permalink: /About-List.html
 
 # 成员简介
 
+[成员列表](/about/members)
+
 ## 更新时间 2022/5
 
 | 名称 | 职位 | 入职时间 | 跳转 |
