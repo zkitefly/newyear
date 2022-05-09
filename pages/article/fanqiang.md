@@ -2,7 +2,7 @@
 permalink: /article/fanqiang.html
 ---
 
-<video src="https://download.123pan.cn/123-397/c0329b5e/1767126-0/c0329b5e4d019fb154fad5f5dd72e98d?v=1&t=1652183845&s=0a5d57c520edd696bd23adb333485cb3&filename=aoxvpn.mp4" controls>
+<video src="https://download.123pan.cn/123-929/a36bc8c4/1767126-0/a36bc8c47fcf68efb0fd71cdfd7307a1?v=1&t=1652184689&s=7f0d57428521f23f0cab6041fb5eb0c6&filename=videoplayback.mp4" controls>
   你的浏览器不支持 <code>video</code> 标签。
 </video>
 
