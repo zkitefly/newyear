@@ -1,5 +1,9 @@
 # 核心™ 工作室 Core Studio
 
+<video src="https://download.123pan.cn/123-929/a36bc8c4/1767126-0/a36bc8c47fcf68efb0fd71cdfd7307a1?v=1&t=1652184689&s=7f0d57428521f23f0cab6041fb5eb0c6&filename=videoplayback.mp4" controls>
+  你的浏览器不支持 <code>video</code> 标签。
+</video>
+
 <video src="https://m704.music.126.net/20220509202531/d3b04f1fd1a84c0b7ce49930c69971c8/jdyyaac/0e5e/060f/025f/94ec7b610b1e93ee66b95502442ac54a.m4a?authSecret=00000180a8b1469a0d170aaba0532abd" controls>
   你的浏览器不支持 <code>video</code> 标签。
 </video>
