@@ -2,6 +2,10 @@
 permalink: /article/fanqiang.html
 ---
 
+<video src="https://github.com/corestudi0/corestudi0.github.io/blob/07d27f6fb0306c794d973d28a8b12202757fea19/file/aoxvpn.mp4" controls>
+  你的浏览器不支持 <code>video</code> 标签。
+</video>
+
 # 免费翻墙工具汇总
 
 ## 翻墙浏览器
