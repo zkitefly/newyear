@@ -2,7 +2,7 @@
 permalink: /article/fanqiang.html
 ---
 
-<video src="https://rr4---sn-npoeeney.googlevideo.com/videoplayback?expire=1652118152&ei=KP54Yq7jBbyD3LUP9Pi7sA4&ip=2400%3A8901%3A0%3A0%3Af03c%3A93ff%3Afee0%3Acd6a&id=o-ABZ3K53w-QrvEnd_7DKA8uLnZx1DwIp32oP6XHI3IFGh&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=H4&mm=31%2C26&mn=sn-npoeeney%2Csn-ogueln7z&ms=au%2Conr&mv=m&mvi=4&pl=32&initcwndbps=466250&spc=4ocVC2WZRbdoEc7UZ3P4s_X5sCOFCJDvuo1BHrcfkw&vprv=1&mime=video%2Fmp4&ns=ltyqzE3FIG9OzoIh6nsbs2YG&gir=yes&clen=8461558&dur=30.080&lmt=1636638955455878&mt=1652096230&fvip=2&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5316224&n=DwDlJJJS-aNkvhePEtt&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhANC0QnzazGzG31ITKv7R1iYI19vFVriWyGvMrqNcLGYtAiEApMdV6lAzeIHST1Z0u6Ij8FEnLoRyZ2JhPWFBvl6fmBs%3D&sig=AOq0QJ8wRQIgM_zIGL1q8hlgCZhmPWccwWw0Ag0Zxx421i3EFia-ytcCIQDkadBMy-gPHVGQDN7hLjSt7YiCpDHWA20ZnXq3uFZWhw%3D%3D" controls>
+<video src="https://download.123pan.cn/123-397/c0329b5e/1767126-0/c0329b5e4d019fb154fad5f5dd72e98d?v=1&t=1652183845&s=0a5d57c520edd696bd23adb333485cb3&filename=aoxvpn.mp4" controls>
   你的浏览器不支持 <code>video</code> 标签。
 </video>
 
