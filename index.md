@@ -1,5 +1,9 @@
 # 核心™ 工作室 Core Studio
 
+<video src="https://m704.music.126.net/20220509202531/d3b04f1fd1a84c0b7ce49930c69971c8/jdyyaac/0e5e/060f/025f/94ec7b610b1e93ee66b95502442ac54a.m4a?authSecret=00000180a8b1469a0d170aaba0532abd" controls>
+  你的浏览器不支持 <code>video</code> 标签。
+</video>
+
 注:English主页暂时未更新，所有资源分享及大多内容已经移入 **文章** 板块
 
 部分主页没有的内容可以去 **快速查询列表**中查看
