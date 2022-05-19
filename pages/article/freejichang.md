@@ -2,16 +2,10 @@
 permalink: /article/freejichang.html
 ---
 
-# 公益机场 油管8K都不卡
+# 文章已删除
 
-## 天天极客
+## 机场不再公益
 
-这个机场不限流，不限速，免费用，详细教程见 [我的视频](https://youtu.be/8fPjKwNGeTs) 
-
-官网 : [点击访问](https://daydaygeek.icu)
-
-好用记得去 **[我的视频](https://youtu.be/8fPjKwNGeTs)** 帮我点个免费的**赞**和**订阅**
-
-时间 : 2022/5/3 19:30 
+## 代理服务请前往[服务](/service)购买套餐获得!!!
 
 **[<< 返回首页](https://corestudi0.github.io)**
