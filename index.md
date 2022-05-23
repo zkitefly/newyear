@@ -13,7 +13,9 @@
 ![image](https://github.com/corestudi0/corestudi0.github.io/blob/763995c4b741fcbf25860ebd94a3d00549a5ce59/_files/CORESTUDIO.png)
 
 ## 我们能干什么？
-1.我们可以制作一些比较实用的工具，使用较高级的 C++ 编译大部分程序
+1.我们可以制作一些比较实用的工具，使用 C++ 编译大部分程序
+
+[**查看项目**](https://www.123pan.com/s/dUF9-CDkw3)
 
 2.承担一些信息技术工作，如剪辑、远程协助，价格商议或基于关系或赞助商决定！
 
@@ -31,15 +33,17 @@
 
 资源列表:[点我查看](https://www.123pan.com/s/dUF9-Pskw3)
 
-## 核心工作室 特供翻墙浏览器/VPN/机场 全部免费不限流量 高速稳定
+## 核心工作室 特供翻墙浏览器/VPN 全部免费不限流量 高速稳定
 
-[翻墙](/article/fanqiang)
+[VPN/翻墙浏览器](/article/fanqiang)
 
 **[荐:公益机场](/article/freejichang)**
 
 提示：
 
 解压后打开文件夹，推荐选择V2go翻墙，稳定高速，打开后按数字 1 更新节点，然后开启你的高速翻墙之旅~
+
+(浏览内容经过CoreSecure净化,仅支持保留访问Google,YouTube等主流网站,其余网站内容均已被过滤)
 
 ## 我能加入你们吗？
 能，但你需要对工作室做出贡献，有兴趣可以联系管理员（WX）15310670877
