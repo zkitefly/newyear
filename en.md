@@ -8,7 +8,7 @@ Note: The English homepage has not been updated for the time being, and all reso
 
 Some content not available on the homepage can be viewed in the **quick query list**
 
-[English](https://corestudi0.github.io/en)
+[简体中文](https://corestudi0.github.io)
 
 [Quick Lookup List](/list)
 
