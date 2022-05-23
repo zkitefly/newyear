@@ -22,9 +22,9 @@ permalink: /about/Administrator-TangWenbin.html
 
 **编程学龄** : ~1年
 
-**等级** : LV2 / LV8
+**等级** : LV3 / LV8
 
-**信息技术方面** : 精通电脑故障修复，软件破解，科学上网，专业软件快速上手，电脑系统重装，系统高级设置，漏洞修复等大多方面
+**信息技术方面** : 精通电脑故障修复，软硬件（部分）问题修复，电脑系统优化，电脑系统重装，系统高级设置，漏洞修复等大多方面
 
 ## 联系方式
 
@@ -35,5 +35,14 @@ permalink: /about/Administrator-TangWenbin.html
 **QQ** : 1447754529
 
 **Mail** : a1447754529@gmail.com
+
+## GitHub Page信息
+
+**创建者** : 唐文彬,邓科名,唐皓
+
+**创建时间** : 2021/11
+
+**起源** : CPU Studio 2018-2021
+
 
 **[返回首页](https://corestudi0.github.io)**
