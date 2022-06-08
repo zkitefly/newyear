@@ -2,33 +2,9 @@
 permalink: /article/fanqiang.html
 ---
 
-<video src="https://download.123pan.cn/123-929/a36bc8c4/1767126-0/a36bc8c47fcf68efb0fd71cdfd7307a1?v=1&t=1652184689&s=7f0d57428521f23f0cab6041fb5eb0c6&filename=videoplayback.mp4" controls>
-  你的浏览器不支持 <code>video</code> 标签。
-</video>
+# No Way
 
-# 免费翻墙工具汇总
-
-## 翻墙浏览器
-
-ChromeGo 翻墙浏览器(!!最近不稳定!!)
-
-[如何使用（在 Youtube 上）](https://www.youtube.com/watch?v=fAhzDLVjml8)
-
-[下载集成插件版](https://www.123pan.com/s/dUF9-Xskw3)
-
-FireFox 翻墙浏览器(!!荐!!)
-
-[下载翻墙包](https://d1a.v2rss.gq/FirefoxFQ.7z)
-
-## 安卓VPN
-
-[V2ray VPN](https://d1a.v2rss.gq/v2ray.vpn-universal-release.apk)
-
-[SpeedUp VPN](https://d1a.v2rss.gq/SpeedUp.VPN.apk)
-
-## 通用平台
-
-[**小牛加速器**(原 *小牛VPN*)](https://www.aoxvpn.cc)
+## 购买本工作室 *代理*机场服务 即可获得备用VPN x2(PC+Android+IOS 通用)
 
 ## 更多平台翻墙工具待更新~
 
