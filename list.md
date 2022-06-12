@@ -7,6 +7,7 @@
 | 工作室成员介绍 | [点我查看](/About-List)
 | 中文主页 | [点我访问](https://corestudi0.github.io) |
 | English Main | [Click me to visit](/en) |
+| 服务 Service | [点我查看](/service)
 | 资源分享及文章 | [点我查看](/article)
 
 ## Contact owners
