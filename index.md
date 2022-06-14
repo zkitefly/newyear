@@ -2,11 +2,13 @@
 
 注:English主页暂时未更新，所有资源分享及大多内容已经移入 **文章** 板块
 
+点击**蓝色字体**文字跳转到对应页面
+
 部分主页没有的内容可以去 **快速查询列表**中查看
 
-[English](https://corestudi0.github.io/en)
+| [English](https://corestudi0.github.io/en) |
 
-[快速查询列表](/list)
+| [快速查询列表](/list) |
 
 这里是核心工作室，欢迎来到核心工作室！
 
