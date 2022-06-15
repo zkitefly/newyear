@@ -1,6 +1,6 @@
 # 核心工作室 Core Studio
 
-<iframe class="iframe_video" src="https://raw.githubusercontent.com/corestudi0/corestudi0.github.io/main/file/202206151846(2).mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe class="iframe_video" src="https://download.kstore.space/download/11/%E5%AE%A3%E4%BC%A0%E7%89%87.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ![image](https://user-images.githubusercontent.com/102907913/173813325-570da1a0-2855-4742-8c4a-dac3a6542b53.png)
 
