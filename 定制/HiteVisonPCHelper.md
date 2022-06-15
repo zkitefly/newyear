@@ -4,7 +4,7 @@ permalink: /service/hvpc.html
 
 # HiteVison CoreStudio 定制优化系统使用说明
 
-[!image](https://user-images.githubusercontent.com/102907913/173813879-656c5d94-b9f1-485f-8804-5240d8db3365.png)
+![image](https://user-images.githubusercontent.com/102907913/173813325-570da1a0-2855-4742-8c4a-dac3a6542b53.png)
 
 ## QuickLook快速查看
 
@@ -67,3 +67,5 @@ Ctrl+Win+←/→ 切换桌面
 ## 软件/系统维护 升级
 
 本机已启用 冰点还原，需要维护升级软件/系统，请联系管理员上门（仅限周末节假日）维护升级！
+
+### 更多疑虑请咨询管理员！
