@@ -1,5 +1,8 @@
 # 核心工作室 Core Studio
 
+![image](https://user-images.githubusercontent.com/102907913/173813325-570da1a0-2855-4742-8c4a-dac3a6542b53.png)
+
+
 注:English主页暂时未更新，所有资源分享及大多内容已经移入 **文章** 板块
 
 点击**蓝色字体**文字跳转到对应页面
