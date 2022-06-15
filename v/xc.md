@@ -1,0 +1,7 @@
+---
+permalink: /v/xc.md
+---
+
+# 宣传片
+
+<video src="https://download.kstore.space/download/11/%E5%AE%A3%E4%BC%A0%E7%89%87.mp4" controls="false" width="100%" height="auto"/>
