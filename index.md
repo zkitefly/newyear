@@ -2,7 +2,7 @@
 
 ![CORESTUDIO-横板](https://user-images.githubusercontent.com/102907913/173843892-39ca58a2-8667-4951-8e5d-49f4328c7df4.png)
 
-<video src="https://download.kstore.space/download/11/%E5%AE%A3%E4%BC%A0%E7%89%87.mp4" type="video/mp4"  autoplay="true" controls="contorls" loop="-1"><p>你的浏览器不支持视频标签.</p></video>
+<video src="https://download.kstore.space/download/11/%E5%AE%A3%E4%BC%A0%E7%89%87.mp4" type="video/mp4"  autoplay="autoplay" controls="contorls" loop="-1"><p>你的浏览器不支持视频标签.</p></video>
 
 **[查看宣传片](/v/xc)**
 
