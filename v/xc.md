@@ -1,5 +1,5 @@
 ---
-permalink: /v/xc.md
+permalink: /v/xc.html
 ---
 
 # [<<宣传片](https://corestudi0.github.io)
