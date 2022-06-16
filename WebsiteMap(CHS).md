@@ -20,10 +20,14 @@ permalink: /websitemap.html
 
 **[服务](/service)**
 
+**[茶园新城中学](/cyxczx.html)**
+
 **[文章](/article)**
 
 -[AdGuard广告拦截破解程序](/article/adguardhack)
 
 -[代理机场服务](/article/PROXYairportservice)
+
+**[其他](/other)**
 
 [English Main](/en)
