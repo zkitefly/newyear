@@ -72,6 +72,8 @@ Tips:CoreSecure是我们的应用程序中植入的自研安全程序，可以�
 
 地址:重庆市南岸区
 
+**[网站内嵌入式地图](/webmapAPI)
+
 <iframe width="500" height="400" frameborder="0" src="https://cn.bing.com/maps/embed?h=400&w=500&cp=nxjkc6swp3m9&lvl=17&typ=d&sty=r&src=SHELL&FORM=MBEDV8" scrolling="no"></iframe>
 
 ## Copyright (C) Core Studio 2022
