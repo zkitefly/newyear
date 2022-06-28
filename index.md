@@ -45,7 +45,7 @@
 
 [VPN/翻墙浏览器](/article/fanqiang)
 
-**[荐:代理机场](/article/PROXYairport)**
+**[荐:代理机场](/article/PROXYairportservice)**
 
 提示：
 
