@@ -6,6 +6,10 @@ permalink: /service/hvpc.html
 
 ![image](https://user-images.githubusercontent.com/102907913/173813325-570da1a0-2855-4742-8c4a-dac3a6542b53.png)
 
+**电脑关机一定是长按电源键，请勿硬关机（拉闸），为了提升开机速度，请勿点击关机关闭电脑，如果遇到电脑卡顿或小问题请先尝试按键盘上的任意按键，如无法解决请重启（所有数据会还原至2022/7/8的数据，除Z盘可存储文件）**
+
+**本机系统深度优化，请勿装360，2345，一个火绒即可保护系统！ 
+
 ## QuickLook快速查看
 
 可以预览文件，单击文件，按下空格预览，部分格式不支持预览
@@ -16,7 +20,7 @@ permalink: /service/hvpc.html
 
 ## YouTube,Google......
 
-外国知名网站，需要购买[代理机场服务](/article/PROXYairportservice)使用，否则无法访问
+外国知名流媒体网站，需要配合V2rayN(荐)或Clash(备用)使用，否则无法访问
 
 ## MPC-HC,VLC
 
@@ -28,15 +32,11 @@ permalink: /service/hvpc.html
 
 ## V2rayN/Clash
 
-代理软件，开启后可访问Google,YouTube...... 需要购买[代理机场服务](/article/PROXYairportservice)获得订阅节点
+代理软件，开启后可访问Google,YouTube...... 需要购买[代理机场服务(点我购买)](/article/PROXYairportservice)获得订阅节点,专属折扣码为系统版本（如20H1）+（企业/校园/个人用户名 名称)，8折优惠（不可叠加）
 
 ## Chrome
 
 谷歌浏览器，兼容性高，拓展性高，内置常用插件（勿随意删除！），CocoCut可以下载正在播放的音乐（除了Listen1或其他插件播放的音乐），视频（流媒体视频，除B站外）
-
-# AdGuard 广告拦截
-
-默认试用6个月广告拦截
 
 ## 快捷键
 
