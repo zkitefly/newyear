@@ -26,7 +26,7 @@ permalink: /article/PROXYairportservice.html
 
 **高速套餐(推荐购买)**
 
-晚高峰速度轻松23W
+原生IP节点看YouTube,就算是晚高峰速度也轻松23W
 
 ![image](https://user-images.githubusercontent.com/102907913/178104947-15e4983f-ea90-4673-b2bd-52a59ba2550c.png)
 
