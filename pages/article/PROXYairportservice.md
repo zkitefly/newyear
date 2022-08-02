@@ -11,6 +11,7 @@ permalink: /article/PROXYairportservice.html
 下表为实时更新数据
 
 | 总销量 | 8 |
+| ----- | -- |
 | 好评率 | 100% |
 
 ## 套餐列表
