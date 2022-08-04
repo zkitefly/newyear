@@ -30,4 +30,4 @@ permalink: /websitemap.html
 
 **[其他](/other)**
 
-[English Main](/en)
+[我的世界 专区](/mc)
