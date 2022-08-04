@@ -14,7 +14,7 @@
 
 | [网站导航](/websitemap) |
 
-| [English](https://corestudi0.github.io/en) |
+| [我的世界:核心工作室 专区](/mc) |
 
 | [快速查询列表](/list) |
 
