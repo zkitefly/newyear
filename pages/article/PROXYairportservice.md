@@ -43,6 +43,7 @@ permalink: /article/PROXYairportservice.html
 
 ![image](https://user-images.githubusercontent.com/102907913/178104947-15e4983f-ea90-4673-b2bd-52a59ba2550c.png)
 
+**鉴于最近使用人数上涨，服务器提供商收费上涨，我们决定，将把定价上涨50%~100%，8/25日起生效--机场服务提供者信息**
 
 | **套餐名称** | **详细信息** | **定价** | 销量 |
 | ------------- | ------------- | ------- | -- |
