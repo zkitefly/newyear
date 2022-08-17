@@ -1,12 +1,12 @@
 # 核心工作室 Core Studio
 
-<audio src="https://www.mastercard.com.cn/content/dam/public/mastercardcom/sg/en/audio/MastercardSoundscape.mp3" controls="controls">
+<audio src="https://www.mastercard.com.cn/content/dam/public/mastercardcom/sg/en/audio/MastercardSoundscape.mp3" autoplay="autoplay" controls="controls">
 你的浏览器不支持音频标签.
 </audio>
 
 ![CORESTUDIO-横板](https://user-images.githubusercontent.com/102907913/173843892-39ca58a2-8667-4951-8e5d-49f4328c7df4.png)
 
-<video src="https://download.kstore.space/download/2719/480PXCP.mp4" type="video/mp4"  autoplay="autoplay" controls="contorls" loop="-1"><p>你的浏览器不支持视频标签.</p></video>
+<video src="https://download.kstore.space/download/2719/480PXCP.mp4" type="video/mp4" controls="contorls" loop="-1"><p>你的浏览器不支持视频标签.</p></video>
 
 **[查看宣传片](/v/xc)**
 
