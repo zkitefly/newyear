@@ -6,7 +6,7 @@ permalink: /language.html
 
 | **语言 Language** | **跳转 Jump to** |
 | ----------------- | ---------------- |
-| **简体中文** | [点我](https://corestudi0.github.io) |
+| **简体中文** | [点我](/chs.html) |
 | **Русский** | [я указываю](/ru.html) |
 | **EN-US** | [Click me](/en.html) |
 | **한국인** | [나는 지적한다](/kr.html) |
