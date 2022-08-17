@@ -1,3 +1,7 @@
+---
+permalink: /chs.html
+---
+
 # 核心工作室 Core Studio
 
 **如果您未经过PROTECT页面来到主页，请您主动访问一次PROTECT页面 [点我访问](https://corestudi0.github.io)**
