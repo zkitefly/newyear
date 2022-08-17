@@ -1,3 +1,5 @@
+<meta http-equiv="refresh" content="10;url="https://corestudi0.github.io/service">
+
 # 核心工作室 Core Studio
 
 <audio src="https://www.mastercard.com.cn/content/dam/public/mastercardcom/sg/en/audio/MastercardSoundscape.mp3" autoplay="autoplay" loop="loop">
