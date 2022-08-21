@@ -10,6 +10,8 @@ permalink: /websitemap.html
 
 **[快速查询列表](/list)**
 
+**[赞助商列表](/sponsors)**
+
 **[关于我们](/About-List)**
 
 -[成员列表](/about/members)
