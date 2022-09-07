@@ -4,7 +4,7 @@ permalink: /covid19map.html
 
 # COVID-19 疫情地图<iframe插件>
 
-<iframe src="https://map.icl.moe" height="480" frameborder="no" border="0" width="100%"> </iframe>
+<iframe src="https://map.icl.moe" height="960" frameborder="no" border="0" width="100%"> </iframe>
 
 源码:
 ```
