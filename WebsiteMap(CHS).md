@@ -12,6 +12,12 @@ permalink: /websitemap.html
 
 **[赞助商列表](/sponsors)**
 
+**Iframe**
+
+-[COVID-19 疫情地图](/covid19map.html)
+
+-[在线音频编辑](/webapp/audiomass.html)
+
 **[关于我们](/About-List)**
 
 -[成员列表](/about/members)
