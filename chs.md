@@ -29,7 +29,7 @@ permalink: /chs.html
 ## 我们能干什么？
 1.我们可以制作一些比较实用的工具，使用 C++ 编译大部分程序
 
-[**查看项目**](https://www.123pan.com/s/dUF9-CDkw3)
+**公开免费样例项目(源码+成品)**
 
 <iframe src="https://www.123pan.com/s/dUF9-CDkw3" height="500" frameborder="no" border="0" width="100%"> </iframe>
 
