@@ -31,6 +31,8 @@ permalink: /chs.html
 
 [**查看项目**](https://www.123pan.com/s/dUF9-CDkw3)
 
+<iframe src="https://www.123pan.com/s/dUF9-CDkw3" height="500" frameborder="no" border="0" width="100%"> </iframe>
+
 2.承担一些信息技术工作，如剪辑、远程协助，价格商议或基于关系或赞助商决定！
 
 | **服务** | **定价** | 操作 |
