@@ -1,5 +1,5 @@
 ---
-permalink: /article/PROXYairportservice.html
+permalink: /closed/article/PROXYairportservice.html
 ---
 
 # CoreStudio *代理*机场
