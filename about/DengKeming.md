@@ -1,5 +1,5 @@
 ---
-permalink: /Admin-DengKeming.html
+permalink: /about/Admin-DengKeming.html
 ---
 
 # 副管理员——邓科名
