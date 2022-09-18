@@ -14,6 +14,8 @@ permalink: /closed/article/PROXYairportservice.html
 
 ### Why are you here?It looks like you found the link of this closed page,but I just want to tell you:It wasn't working now!
 
+```
+
 下表为实时更新数据
 
 | 总销量 | 16 |
@@ -80,5 +82,7 @@ permalink: /closed/article/PROXYairportservice.html
 最大速率 10.0Gbps
 
 **请联系 管理员(QQ 1447754529或WX coretwb) 购买 (周末，节日，假日在线）
+
+```
 
 **[<< 返回首页](https://corestudi0.github.io)**
