@@ -6,7 +6,7 @@ permalink: /DeputyAdministrator-DengKeming.html
 
 ## 基本信息
 
-**性别** : ♂
+**性别** : Male
 
 **年龄** : 14 岁(截至2022年9月)
 
@@ -19,12 +19,6 @@ permalink: /DeputyAdministrator-DengKeming.html
 ## 详细信息
 
 **身份**:管理员的好兄弟
-
-**Error:Information Not Found
-
-ErrorID:001
-
-#UNKNOW
 
 ## 联系方式
 
