@@ -6,7 +6,7 @@ permalink: /about/Administrator-TangWenbin.html
 
 ## 基本信息
 
-**性别** : ♂
+**性别** : Male
 
 **年龄** : 13 岁(截至2022年5月)
 
