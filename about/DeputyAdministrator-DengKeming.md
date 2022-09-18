@@ -8,7 +8,7 @@ permalink: /DeputyAdministrator-DengKeming.html
 
 **性别** : ♂
 
-**年龄** : 13 岁(截至2022年5月)
+**年龄** : 14 岁(截至2022年9月)
 
 **来自** : 重庆市南岸区
 
