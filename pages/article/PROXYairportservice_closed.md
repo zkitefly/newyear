@@ -2,7 +2,7 @@
 permalink: /closed/article/PROXYairportservice.html
 ---
 
-# CoreStudio *代理*机场
+# CoreStudio *代理*机场(已关闭)
 
 ### 优质机场订阅找我们，我们追求高速度，高质量机场(我们仅收取小部分服务费用 20%~50% X 原套餐费用)
 
@@ -10,7 +10,9 @@ permalink: /closed/article/PROXYairportservice.html
 
 ### 订阅前后请查看[Wiki](/wiki/翻墙)了解如何翻墙及配置软件
 
-### 购买方式见底部 价格表更新时间2022/8/19 超过5天未更新请联系管理员确认当前价格！
+### 购买方式见底部 价格表更新时间2022/8/24 超过5天未更新请联系管理员确认当前价格！
+
+### Why are you here?It looks like you found the link of this closed page,but I just want to tell you:It wasn't working now!
 
 下表为实时更新数据
 
