@@ -24,7 +24,7 @@ permalink: /websitemap.html
 
 -[管理员-唐文彬](/about/Administrator-TangWenbin)
 
--[副管理员-邓科名](/about/DeputyAdministrator-DengKeming)
+-[副管理员-邓科名](/about/Admin-DengKeming)
 
 **[服务](/service)**
 
