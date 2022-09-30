@@ -1,5 +1,6 @@
 ---
 permalinl: /helpus.html
+---
 
 # to make money!We need YOU! 
 
