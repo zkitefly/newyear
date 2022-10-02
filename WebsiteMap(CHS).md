@@ -8,6 +8,8 @@ permalink: /websitemap.html
 
 **[首页](https://corestudi0.github.io)**
 
+**[新闻](https://corestudionews.github.io)**
+
 **[快速查询列表](/list)**
 
 **[赞助商列表](/sponsors)**
