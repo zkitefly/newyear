@@ -6,6 +6,8 @@ permalink: /chs.html
 
 **如果您未经过PROTECT页面来到主页，请您主动访问一次PROTECT页面 [点我访问](https://corestudi0.github.io)**
 
+**!!!羊了个羊 H5 震撼来袭 >>[点我游玩](/webapp/yang/)<<
+
 ![CORESTUDIO-横板](https://user-images.githubusercontent.com/102907913/173843892-39ca58a2-8667-4951-8e5d-49f4328c7df4.png)
 
 <video src="https://download.kstore.space/download/2719/480.mp4" type="video/mp4" autoplay="autoplay" loop="loop"><p>你的浏览器不支持视频标签.</p></video>
