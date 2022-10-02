@@ -12,7 +12,7 @@ permalink: /websitemap.html
 
 **[赞助商列表](/sponsors)**
 
-**Iframe**
+**WebAPP**
 
 -[COVID-19 疫情地图](/covid19map.html)
 
