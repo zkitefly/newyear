@@ -8,15 +8,17 @@ permalink: /websitemap.html
 
 **[首页](https://corestudi0.github.io)**
 
+**[新闻](https://corestudionews.github.io)**
+
 **[快速查询列表](/list)**
 
 **[赞助商列表](/sponsors)**
 
-**Iframe**
+**WebAPP**
 
 -[COVID-19 疫情地图](/covid19map.html)
 
--[在线音频编辑](/webapp/audiomass.html)
+-[羊了个羊](/webapp/yang/)
 
 **[关于我们](/About-List)**
 
