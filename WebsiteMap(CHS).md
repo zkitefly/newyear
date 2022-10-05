@@ -20,6 +20,8 @@ permalink: /websitemap.html
 
 -[羊了个羊](/webapp/yang/)
 
+-[2048](/webapp/2048/)
+
 **[关于我们](/About-List)**
 
 -[成员列表](/about/members)
