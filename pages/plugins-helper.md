@@ -1,3 +1,7 @@
+---
+permalink: /mc/plugins-helper.html
+---
+
 # CoreServer服务器说明
 
 ## 现适配版本 MC BE v1.19.30-31
