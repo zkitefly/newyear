@@ -4,8 +4,6 @@ permalink: /mc.html
 
 # Minecraft CoreStudio Home
 
-## 欢迎来到 我的世界:核心工作室 主页
-
 ## 我们的服务器
 
 **CN 半纯净生存(我的第一个像样的服务器)**
@@ -16,8 +14,4 @@ permalink: /mc.html
 
 服务器插件使用教程 [点我](/mc/plugins-helper.html)
 
-## MCPacks
-
-[点我进入专区](/mcpack)
-
-[<<返回主页](https://corestudi0.github.io)
+[<<返回主页](https://corestudi0.github.io/chs.html)
