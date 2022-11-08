@@ -42,7 +42,7 @@ permalink: /mc/plugins-helper.html
 
 /money hist 打印账单
 
-/money_s pay <player:name> <num> 向<player:name>支付<num>个C币
+/money_s pay (player:name) (num) 向(player:name)支付(num)个C币
 
 ### BoxShop
 
