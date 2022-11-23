@@ -43,4 +43,3 @@ permalink: /websitemap.html
 **[其他](/other)**
 
 [我的世界 专区](/mc)
-[我的世界 Core服务器](/mc/home/)
