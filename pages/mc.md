@@ -20,8 +20,6 @@ Join us?
 
 Contact Admin!
 
-服务器的主页 [访问](/mc/home)
-
 服务器插件使用教程 [点我](/mc/plugins-helper.html)
 
 [<<返回主页](https://corestudi0.github.io/chs.html)
