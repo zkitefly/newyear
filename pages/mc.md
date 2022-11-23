@@ -6,11 +6,19 @@ permalink: /mc.html
 
 ## 我们的服务器
 
-**CN 半纯净生存(我的第一个像样的服务器)**
+**CN 半纯净生存(插件,生存,公益)**
 
-返回顶部点击添加对应服务器即可~(仅限基岩版1.19.30-31)
+状态:运行中
 
-状态:开放游玩
+BDS:v2.7.2
+
+Core:LLSE
+
+Main:Minecraft Bedrock Server 1.19.30-31
+
+Join us?
+
+Contact Admin!
 
 服务器的主页 [访问](/mc/home)
 
