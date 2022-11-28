@@ -6,8 +6,6 @@ permalink: /chs.html
 
 **如果您未经过PROTECT页面来到主页，请您主动访问一次PROTECT页面 [点我访问](https://corestudi0.github.io)**
 
-**!!!羊了个羊 H5 震撼来袭 >>[点我游玩](/webapp/yang/)<<**
-
 ![CORESTUDIO-横板](https://user-images.githubusercontent.com/102907913/173843892-39ca58a2-8667-4951-8e5d-49f4328c7df4.png)
 
 <video src="https://download.kstore.space/download/2719/480.mp4" type="video/mp4" autoplay="autoplay" loop="loop"><p>你的浏览器不支持视频标签.</p></video>
@@ -51,19 +49,11 @@ permalink: /chs.html
 
 资源列表:[点我查看](https://www.123pan.com/s/dUF9-Pskw3)
 
-## 核心工作室 特供翻墙浏览器/VPN 全部免费不限流量 高速稳定
-
-[VPN/翻墙浏览器](/article/fanqiang)
+## 核心工作室 特供
 
 **[荐:代理机场](/article/PROXYairportservice)**
 
 提示：
-
-解压后打开文件夹，推荐选择V2go翻墙，稳定高速，打开后按数字 1 更新节点，然后开启你的高速翻墙之旅~
-
-(浏览内容经过CoreSecure净化,仅支持保留访问Google,YouTube等主流网站,其余网站内容均已被过滤)
-
-Tips:CoreSecure是我们的应用程序中植入的自研安全程序，可以透过公网API获取应过滤不良信息(网络过滤API来自:McAfee)，保障上网安全(Beta测试，暂时不稳定)
 
 ## 我能加入你们吗？
 能，但你需要对工作室做出贡献，有兴趣可以联系管理员（WX）15310670877
