@@ -21,7 +21,7 @@
 	<p><a href="https://space.bilibili.com/1203736702/" target="_blank" rel="noopener noreferrer">前往B站</a></p>
 	<p>我要看Maxwell the Cat Theme臭猫旋转10小时视频</p>
 	<p><a href="https://www.bilibili.com/video/BV1944y1o79u/" target="_blank" rel="noopener noreferrer">立即观看</a></p>
-	<p>Copyright © 2022-2023 Core Studio. All rights reserved.<a href="https://corestudi0.github.io/chs" target="_blank" rel="noopener noreferrer">Home</a></p>
+	<p><span id="copyright"></span><a href="https://corestudi0.github.io/chs" target="_blank" rel="noopener noreferrer">Home</a></p>
 	<script type="text/javascript">
 		function time() {
     window.setTimeout("time()", 1000);
@@ -60,7 +60,8 @@
 	document.getElementById("zf").innerHTML ="今天是"+todayMonth+"月"+todayDate+"日,元旦节!提前祝您新年快乐,身体健康,万事如意!"}}
      document.getElementById("time").innerHTML =  todayYear+"年剩余(距离"+newYear+"还有): "+diffDays + "天" + diffHours + "小时" + diffMinutes + "分钟" + diffSeconds + "秒"
      document.getElementById("time2").innerHTML =  lastYear+"已经过去!"+lastYear+"已过去:"+diff2Days + "天" + diff2Hours + "小时" + diff2Minutes + "分钟" + diff2Seconds + "秒"
-    
+     if(todayMonth==12){document.getElementById("copyright").innerHTML ="Copyright © 2022-"+newYear+" Core Studio. All rights reserved."}
+     else{document.getElementById("copyright").innerHTML ="Copyright © 2022-"+todayYear+" Core Studio. All rights reserved."}
 }
 time()
 </script>
