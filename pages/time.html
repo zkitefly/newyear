@@ -4,19 +4,19 @@
 	<style type="text/css">
 	p{font-weight:bold;}
 	p{font-weight:1000;}
-	p{font-size:48px;}
+	p{font-size:36px;}
 	p{font-family:"微软雅黑";}
 	</style>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>今年剩余时间</title>
-	<meta name="description" content="2022年剩余的时间">
+	<meta name="description" content="今年剩余的时间">
 </head>
 <body>
 	<p><span id="zf"></span></p>
 	<p><span id="time"></span></p>
+	<p><span id="time3"></span></p>
 	<p><span id="time2"></span></p>
-	<p>温馨提示:1月1日记得再次打开本链接,有对你的祝福哦!</p>
 	<p>给开发者点个三连回波血吧awa</p>
 	<p><a href="https://space.bilibili.com/1203736702/" target="_blank" rel="noopener noreferrer">前往B站</a></p>
 	<p>我要看Maxwell the Cat Theme臭猫旋转10小时视频</p>
@@ -58,8 +58,10 @@
      if(todayMonth==1){
 	if(todayDate==1){
 	document.getElementById("zf").innerHTML ="今天是"+todayMonth+"月"+todayDate+"日,元旦节!提前祝您新年快乐,身体健康,万事如意!"}}
+     else{document.getElementById("zf").innerHTML ="温馨提示:1月1日记得再次打开本链接,有对你的祝福哦!"}
      document.getElementById("time").innerHTML =  todayYear+"年剩余(距离"+newYear+"还有): "+diffDays + "天" + diffHours + "小时" + diffMinutes + "分钟" + diffSeconds + "秒"
      document.getElementById("time2").innerHTML =  lastYear+"已经过去!"+lastYear+"已过去:"+diff2Days + "天" + diff2Hours + "小时" + diff2Minutes + "分钟" + diff2Seconds + "秒"
+     document.getElementById("time3").innerHTML =  "你在"+todayYear+"已度过:"+diff2Days + "天" + diff2Hours + "小时" + diff2Minutes + "分钟" + diff2Seconds + "秒"
      if(todayMonth==12){document.getElementById("copyright").innerHTML ="Copyright © 2022-"+newYear+" Core Studio. All rights reserved."}
      else{document.getElementById("copyright").innerHTML ="Copyright © 2022-"+todayYear+" Core Studio. All rights reserved."}
 }
