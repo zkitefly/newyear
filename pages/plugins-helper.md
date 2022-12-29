@@ -4,9 +4,9 @@ permalink: /mc/plugins-helper.html
 
 # CoreServer服务器说明
 
-## 现适配版本 MC BE v1.19.30-31
+## 现适配版本 MC BE v1.19.50-51
 
-## 服务器加载端 LiteLoaderBDS 2.7.2(1.19.30)
+## 服务器加载端 LiteLoaderBDS 2.9.0(1.19.50)
 
 ## 服务器插件:LLMoney,LLHelper,LLTpa,iLand,信息栏,BoxShop......(30+)
 
