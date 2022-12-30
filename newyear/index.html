@@ -37,9 +37,9 @@
 
     <audio id="audioDom" src="https://download.kstore.space/download/2719/newyear/files/audio.mp3" preload="auto" loop="loop"></audio>
 
-    <div id="yhBtn" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:999;display:flex;flex-direction:column;justify-content:center;align-items:center;color:#fff ; font-size:20px    ">
-        <p>💥点击我(如果点了没反应请等待几秒再点awa)💥</p>
-        <img style="width:64px;margin-bottom:36px " src="https://download.kstore.space/download/2719/newyear/files/boom.png">
+    <div id="yhBtn" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:999;display:flex;flex-direction:column;justify-content:center;align-items:center;color:#fff ; font-size:2px    ">
+        <p>💥点击我(如果点击没反应请等几秒再点awa)💥</p>
+        <img style="width:64px;margin-bottom:36px " src="files/boom.png">
     </div>
 
     <div style="height: 0; width: 0; position: absolute; visibility: hidden;">
@@ -77,7 +77,7 @@
         </div>
         <div class="stage-container remove">
             <div class="page_two hide">
-                <div id="text" style="display:none;"><p>倒计时<br><br>还有<span id="time"></span><br>提前祝你新年快乐！<br>接龙哈！发给你最好的15个朋友<br>超过20个就永远幸福<br>不许在你这里断了！<br>明年到来之前必须发完，不许偷懒<br>想起谁，发给谁，包括我[awa]<br><br>彩蛋:点击屏幕任意地方即可放烟花<br><br><br><span id="copyright"></span></p></div>
+                <div id="text" style="display:none;"><p>倒计时<br><br>还有<span id="time"></span><br><span id="text1"></span><br>接龙哈！发给你最好的15个朋友<br>超过20个就永远幸福<br>不许在你这里断了！<br>明年到来之前必须发完，不许偷懒<br>想起谁，发给谁，包括我[awa]<br><br>彩蛋:点击屏幕任意地方即可放烟花<br><br><br><span id="copyright"></span></p></div>
                 <div class="type_words" id="contents" style="font-size:1.15rem;line-height:1.5rem;"></div>
             </div>
             <div class="canvas-container">
@@ -175,14 +175,14 @@
             setTimeout(() => {
                 start()
                 fireworks();
-            }, 5000) // 这里的5000 是5s指烟花延时时间
+            }, 2200) // 
             setTimeout(() => {
                 function audioAutoPlay() {
                     var audio = document.getElementById('audioDom');
                     audio.play();
                 }
                 audioAutoPlay();
-            }, 1500) // 这里的5000 是5s指音乐延时时间
+            }, 1500) // 
             console.log(updateConfig({
                 autoLaunch: true
             }));
@@ -194,14 +194,14 @@
         }
 
         function start() {
-            let str = $("#text").html(); //"ʸᵒᵘ ᵃʳᵉ ᵗʰᵉ ᵒⁿˡʸ ᵇᵉˢᵗ ᶠᵒʳ ᵐᵉ.<br><br>于我而言，你是最好且是唯一"
+            let str = $("#text").html(); //"于我而言，你是最好且是唯一"
             let str_ = ''
             let i = 0
             let content = document.getElementById('contents')
             let timer = setInterval(() => {
                 if (str_.length < str.length) {
                     str_ += str[i++]
-                    content.innerHTML = '<p>' + str_ + '<span class="xx" style="opacity: 1;    color: red;">❤</span></p>' //打印时加光标
+                    content.innerHTML = '<p>' + str_ + '<span class="xx" style="opacity: 1;    color: white;">∎</span></p>' //打印时加光标
                 } else {
                     clearInterval(timer)
                     content.innerHTML = '<p>' + str_ + '</p>'
@@ -256,12 +256,15 @@
     var diff2Minutes = Math.floor((diff2 - (diff2Years * 365 + diff2Days) * days - diff2Hours * hours) / minutes)
     var diff2Seconds = Math.floor((diff2 - (diff2Years * 365 + diff2Days) * days - diff2Hours * hours - diff2Minutes *
         minutes) / seconds)
+     if(todayMonth==1){if(todayDate==1){document.getElementById("text1").innerHTML =  "现在是1月1日,祝你"+todayYear+"新年快乐！"}}
+     else{document.getElementById("text1").innerHTML =  "提前祝你"+newYear+"新年快乐"}
      document.getElementById("time").innerHTML =  diffDays + "天" + diffHours + "小时" + diffMinutes + "分钟" + diffSeconds + "秒"+newYear
      if(todayMonth==12){document.getElementById("copyright").innerHTML ="Copyright © 2022-"+newYear+" Core Studio. All rights reserved."}
      else{document.getElementById("copyright").innerHTML ="Copyright © 2022-"+todayYear+" Core Studio. All rights reserved."}
 }
 time()
 </script>
+倒计时
 
 </body>
 
