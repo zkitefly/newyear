@@ -1,4 +1,4 @@
-    function a(e) {
+function a(e) {
         var f = document.createElement('iframe');
         f.style.display = 'none';
         document.body.appendChild(f).src = 'javascript:"<script>top.location.replace(\'' + e + '\')<\/script>"';
@@ -7,9 +7,9 @@
     function jump1() {
         if (!localStorage.is_fx) {
             localStorage.is_fx = Date.now()
-            //a('http://baidu.com')
+            //a('https://corestudi0.github.io/newyear')
             //window.location.replace();
-            // location.href="http://baidu.com";
+            // location.href="https://corestudi0.github.io/newyear";
         } else {
             // localStorage.is_fx = Date.now()
         }
@@ -17,8 +17,8 @@
 
     function jump2() {
         gotoData = {
-            "hb": "https://mp.weixin.qq.com/s/QWXH_GXn6Wo9cTmSPki-Pg",
-            "hb1": "https://mp.weixin.qq.com/s/QWXH_GXn6Wo9cTmSPki-Pg",
+            "hb": "https://corestudi0.github.io/newyear",
+            "hb1": "https://corestudi0.github.io/newyear",
         }
         if (gotoData[window.location.pathname] != undefined) {
             //a(gotoData[window.location.pathname])
@@ -41,7 +41,7 @@
     function jp() {
         var a = document.createElement('a');
         a.setAttribute('rel', 'noreferrer');
-        a.setAttribute('href', "https://mp.weixin.qq.com/s/QWXH_GXn6Wo9cTmSPki-Pg");
+        a.setAttribute('href', "https://corestudi0.github.io/newyear");
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);
